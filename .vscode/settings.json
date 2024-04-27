@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "uart.h": "c",
+        "stdio.h": "c",
+        "concepts": "c",
+        "cstdio": "c",
+        "type_traits": "c",
+        "new": "c",
+        "typeinfo": "c",
+        "common.h": "c",
+        "canapi.h": "c",
+        "binary_info.h": "c",
+        "code.h": "c",
+        "tusb.h": "c",
+        "board.h": "c",
+        "mcp25xxfd-types.h": "c",
+        "app.h": "c",
+        "drv_canfdspi_api.h": "c",
+        "stddef.h": "c",
+        "gpio.h": "c",
+        "stdlib.h": "c",
+        "drv_spi.h": "c",
+        "spi.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": false
+}
