@@ -29,9 +29,9 @@ https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments
 
 #define MOSI_PIN	3   //RPI_PIN19 SPI0_TX
 #define MISO_PIN	0   //RPI_PIN21 SPI0_RX
-#define SCK_PIN		2	//RPI_PIN23 SPI0_SCK
+#define SCK_PIN		2	  //RPI_PIN23 SPI0_SCK
 #define CS_FD1 		1   //RPI_PIN24 SPI0_CS0
-#define CS_FD2 		9	//RPI_PIN26 SPI0_CS1
+#define CS_FD2 		9	  //RPI_PIN26 SPI0_CS1
 #define INT_FD1 	26	//RPI_PIN18 GP26
 #define INT_FD2 	12	//RPI_PIN22 IRQ2
 #define LED_1 		18	//RPI_PIN13 LED1
